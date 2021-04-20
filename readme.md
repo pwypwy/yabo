@@ -1,4 +1,4 @@
-# [yabo 1.0](https://github.com/pwypwy/yabo/master/) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]https://github.com/pwypwy/yabo/master/readme.md) 
+# [yabo 1.0](https://github.com/pwypwy/yabo/master/) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/pwypwy/yabo/blob/master/readme.md) 
 
 yabo 1.0 版本定位是基于springboot实现的一个web服务快速开发框架
 
